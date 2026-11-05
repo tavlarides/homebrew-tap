@@ -1,8 +1,8 @@
 cask "font-tasevka" do
-  version "build-5.1"
-  sha256 "cc9be4105bbd6c4353181261fef4e6991ce781e1d3c9eaf62539d5a9a408d70c"
+  version "build-7.1"
+  sha256 "ac6eda8c13dd6ea36ff53532484c7b786e49d8dc7975cbc1dd4ac7908751fc9b"
 
-  url "https://github.com/tavlarides/custom-iosevka-nerd-font/releases/download/build-5.1/Tasevka-latest.zip"
+  url "https://github.com/tavlarides/custom-iosevka-nerd-font/releases/download/build-7.1/Tasevka-latest.zip"
   name "Tasevka"
   desc "Custom Iosevka Nerd Font with hand-picked glyph variants"
   homepage "https://github.com/tavlarides/custom-iosevka-nerd-font"
@@ -23,4 +23,12 @@ cask "font-tasevka" do
   font "Tasevka-ThinExtended.ttf"
   font "Tasevka-ThinExtendedItalic.ttf"
   font "Tasevka-ThinItalic.ttf"
+  font "TasevkaThin-Bold.ttf"
+  font "TasevkaThin-BoldExtended.ttf"
+  font "TasevkaThin-BoldExtendedItalic.ttf"
+  font "TasevkaThin-BoldItalic.ttf"
+  font "TasevkaThin-Extended.ttf"
+  font "TasevkaThin-ExtendedItalic.ttf"
+  font "TasevkaThin-Italic.ttf"
+  font "TasevkaThin-Regular.ttf"
 end
